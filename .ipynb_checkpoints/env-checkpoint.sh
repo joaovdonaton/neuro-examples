@@ -1,1 +1,0 @@
-source ../neurovenv/bin/activate
